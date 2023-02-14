@@ -1,3 +1,3 @@
 # ejemplo2-
 
-EJjemplo de pagina web  hola mundo
+Ejemplo de pagina WEB hola mundo
